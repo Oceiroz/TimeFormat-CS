@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\bin\Debug\net5.0\Human Readable Time.exe
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\bin\Debug\net5.0\Human Readable Time.deps.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\bin\Debug\net5.0\Human Readable Time.runtimeconfig.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\bin\Debug\net5.0\Human Readable Time.runtimeconfig.dev.json
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\bin\Debug\net5.0\Human Readable Time.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\bin\Debug\net5.0\Human Readable Time.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.AssemblyInfo.cs
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\refint\Human Readable Time.dll
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.pdb
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\Human Readable Time.genruntimeconfig.cache
+C:\Users\carol\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Human Readable Time\obj\Debug\net5.0\ref\Human Readable Time.dll
